@@ -1,0 +1,11 @@
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\bin\Debug\aaaaaa.exe.config
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\bin\Debug\aaaaaa.exe
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\bin\Debug\aaaaaa.pdb
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.csproj.AssemblyReference.cache
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.csproj.SuggestedBindingRedirects.cache
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.csproj.CoreCompileInputs.cache
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.exe
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.pdb
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\bin\Debug\DataTablePrettyPrinter.dll
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\bin\Debug\DataTablePrettyPrinter.xml
+C:\Users\DN_Hocvien\Desktop\New folder (2)\Vanhoane\VTC_SE_Semester1-main\VTC_SE_Semester1-main\vanhoa\abc\aaaaaa\obj\Debug\aaaaaa.csproj.CopyComplete

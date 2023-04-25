@@ -1,0 +1,8 @@
+C:\Users\DN_Hocvien\Downloads\abc\abc\obj\Debug\abc.csproj.AssemblyReference.cache
+C:\Users\DN_Hocvien\Downloads\abc\abc\obj\Debug\abc.csproj.SuggestedBindingRedirects.cache
+C:\Users\DN_Hocvien\Downloads\abc\abc\obj\Debug\abc.csproj.CoreCompileInputs.cache
+C:\Users\DN_Hocvien\Downloads\abc\abc\bin\Debug\abc.exe.config
+C:\Users\DN_Hocvien\Downloads\abc\abc\bin\Debug\abc.exe
+C:\Users\DN_Hocvien\Downloads\abc\abc\bin\Debug\abc.pdb
+C:\Users\DN_Hocvien\Downloads\abc\abc\obj\Debug\abc.exe
+C:\Users\DN_Hocvien\Downloads\abc\abc\obj\Debug\abc.pdb
